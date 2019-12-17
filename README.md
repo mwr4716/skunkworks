@@ -1,2 +1,2 @@
 # skunkworks
-test mule for my projecdts
+test mule for my projects
